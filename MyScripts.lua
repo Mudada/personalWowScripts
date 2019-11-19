@@ -1,0 +1,5 @@
+MyScript = {}
+
+local MS = MyScript
+
+

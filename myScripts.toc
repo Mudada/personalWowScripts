@@ -1,0 +1,7 @@
+## Interface: 11302
+## Version: 1.2.9
+## Title : My Scripts
+## Notes: This AddOn is just an amalgame of personal use scripts
+## Author: Mudada
+
+MyScripts.lua
